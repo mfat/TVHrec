@@ -1,6 +1,8 @@
 # TVHrec
 A program to initiate instant recording for any channel on your TVheadend server.
 
+![TVHrec screenshot](screenshot.png)
+
 ## Features: 
 - Get channel list from server
 - Choose duration for recording
