@@ -18,7 +18,7 @@ declare -A channel_map
 
 # Function to get server configuration
 get_server_config() {
-    echo -e "${BLUE}Enter TVHeadend server address (default: $DEFAULT_URL):${NC}"
+    echo -e "${BLUE}Enter TVHeadend server address (example: $DEFAULT_URL):${NC}"
     read -r server_url
     TVH_URL=${server_url:-$DEFAULT_URL}
 
