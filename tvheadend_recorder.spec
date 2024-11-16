@@ -33,7 +33,7 @@ exe = EXE(
     a.binaries,
     a.zipfiles,
     a.datas,
-    name='TVHeadend Recorder',
+    name='tvhrec-gui',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
