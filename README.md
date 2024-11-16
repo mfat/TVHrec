@@ -29,9 +29,8 @@ Install rquired python modules:
 
 - PyQt6
 - requests
-- pyinstaller
 
-`pip3 install PyQt6 requests pyinstaller`
+`pip3 install PyQt6 requests`
 
 Download tvhrec-gui.py and run it:
 `python3 tvhrec-gui.py`
