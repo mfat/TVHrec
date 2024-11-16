@@ -1,5 +1,5 @@
 # TVHrec
-A program to initiate instant recording for any channel on your TVheadend server.
+A program to initiate instant recording for any channel with TVheadend.
 
 ![TVHrec screenshot](screenshot.png)
 
