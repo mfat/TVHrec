@@ -10,7 +10,7 @@ A program to initiate instant recording for any channel with [TVheadend](https:/
 ## Installation
 
 ### GUI app for linux
-- Download the executable [tvhrec-gui]([/releases/latest/download/tvhrec-gui](https://github.com/mfat/TVHrec/releases/latest/download/tvhrec-gui))
+- Download the executable [tvhrec-gui](https://github.com/mfat/TVHrec/releases/latest/download/tvhrec-gui)
 
 - Make sure it's executable `chmod +x tvhrec-gui`
 
