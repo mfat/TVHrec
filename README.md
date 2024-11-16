@@ -3,6 +3,10 @@ A program to initiate instant recording for any channel with [TVheadend](https:/
 
 ![TVHrec screenshot](screenshot.png)
 
+
+## Why?
+This app was created out of my frustration with finding an efficient way to instantly record a channel on TVheadend. Essentially, this app serves as a simplified, streamlined "record" button for TVheadend. The default TVheadend web UI doesn’t support instant recording for a channel unless there’s an EPG (Electronic Program Guide) available, and Android clients face similar limitations. The only workaround to start an immediate recording is by using Kodi, which isn’t the most convenient solution. This app aims to solve that by providing a one-tap recording option, giving users a much-needed quick and direct way to capture their desired content without waiting for schedules or guides.
+
 ## Features: 
 - Get channel list from server
 - Choose duration for recording
