@@ -20,7 +20,7 @@ A program to initiate instant recording for any channel with [TVheadend](https:/
 - Double click the file to run it.
 
 ### Windows app:
-- Download and run [tvhrec.exe]([https://github.com/mfat/TVHrec/releases/](https://github.com/mfat/TVHrec/releases/latest/download/tvhrec.exe) from the releases section.
+- Download and run [tvhrec.exe](https://github.com/mfat/TVHrec/releases/latest/download/tvhrec.exe) from the releases section.
 
 
 ### GUI app for linux - manual install
