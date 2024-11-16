@@ -8,20 +8,20 @@ A program to initiate instant recording for any channel with [TVheadend](https:/
 - Choose duration for recording
 
 ## Download
-- Head to the [releases]([/releases](https://github.com/mfat/TVHrec/releases/)) section to download the latest version for your operating system.
+- Head to the [releases](https://github.com/mfat/TVHrec/releases/) section to download the latest version for your operating system.
 - 
 
 ## Installation
 
 ### GUI app for linux
-- Linux users should download the executable file called [tvhrec-gui](https://github.com/mfat/TVHrec/releases/latest/download/tvhrec-gui)
+- Linux users should download the executable file called [tvhrec-gui](https://github.com/mfat/TVHrec/releases/latest/download/tvhrec-gui) (for commandline version see below)
 
 - Make sure it's executable `chmod +x tvhrec-gui`
 
 - Double click the file to run it.
 
 ### Windows app:
-- Download and run tvhrec.exe from the [releases]([/releases](https://github.com/mfat/TVHrec/releases/)) section.
+- Download and run tvhrec.exe from the [releases](https://github.com/mfat/TVHrec/releases/) section.
 
 ### GUI app for linux - manual install
 Make sure python is installed.
