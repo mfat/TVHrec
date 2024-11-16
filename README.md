@@ -21,11 +21,10 @@ This app was created out of my frustration with finding an efficient way to inst
 
 ### Linux
 - Linux users should download the executable file called [tvhrec-gui](https://github.com/mfat/TVHrec/releases/latest/download/tvhrec-gui) (for commandline version see below)
-- If you use Debian or Ubuntu you can also download the [deb package](https://github.com/mfat/TVHrec/releases/latest/download/tvhrec_amd64.deb) 
+- - Make sure it's executable `chmod +x tvhrec-gui`
+- - Double click the file to run it.
 
-- Make sure it's executable `chmod +x tvhrec-gui`
-
-- Double click the file to run it.
+- If you use Debian or Ubuntu you can download the [deb package](https://github.com/mfat/TVHrec/releases/latest/download/tvhrec_amd64.deb) 
 
 ### Windows
 - Download and run [tvhrec.exe](https://github.com/mfat/TVHrec/releases/latest/download/tvhrec.exe) from the releases section.
