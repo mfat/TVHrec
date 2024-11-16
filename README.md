@@ -35,7 +35,7 @@ Install rquired python modules:
 Download tvhrec-gui.py and run it:
 `python3 tvhrec-gui.py`
 
-### Commandline app on linux:
+### Commandline app for linux:
 - Download [tvhrec.sh](https://raw.githubusercontent.com/mfat/TVHrec/refs/heads/main/tvhrec-v2.sh) from the repo
 - Make it executable `chmod +x tvhrec.sh`
 - Run it with `./tvhrec.sh`
