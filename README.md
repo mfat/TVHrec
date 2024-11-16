@@ -14,6 +14,7 @@ A program to initiate instant recording for any channel with [TVheadend](https:/
 
 ### GUI app for linux
 - Linux users should download the executable file called [tvhrec-gui](https://github.com/mfat/TVHrec/releases/latest/download/tvhrec-gui) (for commandline version see below)
+- If you use Debian or Ubuntu you can also download the [debian package](https://github.com/mfat/TVHrec/releases/latest/download/tvhrec_amd64.deb) 
 
 - Make sure it's executable `chmod +x tvhrec-gui`
 
