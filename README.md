@@ -1,8 +1,35 @@
-# TVHrecorder
-A linux cli program to initiate instant recording for any channel on your TVheadend server.
+# TVHrec
+A program to initiate instant recording for any channel on your TVheadend server.
 
 ## Features: 
 - Get channel list from server
 - Choose duration for recording
 
+## Installation
+
+### CLI app on linux:
+Download tvhrec.sh
+Make it executable chmod +x tvhrec.sh
+Run it with `./tvhrec.sh`
+
+For systemwide installation:
+`sudo cp tvhrec.sh /usr/local/bin/tvhrec`
+`sudo chmod +x /usr/local/bin/tvhrec`
+
+Now you can run `tvhrec` from anywhere.
+
+### GUI app on linux:
+Make sure python is installed.
+Install rquired python modules:
+-PyQt6
+-requests
+-pyinstaller
+
+`pip3 install PyQt6 requests pyinstaller`
+
+Download tvhrec-gui.py and run it:
+`python3 tvhrec-gui.py`
+
+### Optional: build linux binary
+Download all files from the repo and run `build_linux.sh`
 
