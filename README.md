@@ -33,8 +33,9 @@ Download tvhrec-gui.py and run it:
 - Run it with `./tvhrec.sh`
 
 For systemwide installation:
-`sudo cp tvhrec.sh /usr/local/bin/tvhrec`
-`sudo chmod +x /usr/local/bin/tvhrec`
+
+- `sudo cp tvhrec.sh /usr/local/bin/tvhrec`
+- `sudo chmod +x /usr/local/bin/tvhrec`
 
 Now you can run `tvhrec` from anywhere.
 
