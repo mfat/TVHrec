@@ -7,14 +7,17 @@ A program to initiate instant recording for any channel on your TVheadend server
 
 ## Installation
 
-### Easy way: download linux executable
+### GUI app for linux
 - Download the executable ([tvhrec-gui](https://github.com/mfat/TVHrec/raw/refs/heads/main/tvhrec-gui))
 
 - Make sure it's executable `chmod +x tvhrec-gui`
 
 - Double click the file to run it.
 
-### Manual way: GUI linux app:
+### Windows app:
+- Download and run [the windows version](https://github.com/mfat/TVHrec/releases/download/1.0/tvhrec.exe)
+
+### GUI app for linux - manual install
 Make sure python is installed.
 Install rquired python modules:
 
