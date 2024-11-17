@@ -11,7 +11,7 @@ This app was created out of my frustration with finding an efficient way to inst
 - Add multiple servers
 - Get channel list from server
 - Set duration for recording
-- Cross-platform - the app runs on Linux, macOS and Windows.
+- Cross-platform - the app runs on Linux, macOS, Windows and Android (cli only, using termux)
 - GUI and CLI versions available (cli version is linux only)
 
 ## Download
@@ -55,6 +55,6 @@ For systemwide installation:
 
 Now you can run `tvhrec` from anywhere.
 
-
-
+## Android
+- Download [tvhrec.sh](https://raw.githubusercontent.com/mfat/TVHrec/refs/heads/main/tvhrec-v2.sh) and run in termux
 
